@@ -8,7 +8,7 @@
         "parmesan cheese"
     ],
     "portions": 4,
-    "key": true,
+    "vegan": false,
     "origin": {
         "place": "italy",
         "time": "XVIII century"
