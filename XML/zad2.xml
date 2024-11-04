@@ -24,4 +24,16 @@
         <kind>Breakfast</kind>
         <spice_level>0</spice_level>
     </food>
+    <food>
+        <name>Fish pie</name>    
+        <origin>United Kingdom</origin>
+        <kind>Dairy</kind>
+        <spice_level>1</spice_level>
+    </food>
+    <food>
+        <name>Wontons</name>    
+        <origin>China</origin>
+        <kind>Pasta</kind>
+        <spice_level>2</spice_level>
+    </food>
 </foods>
