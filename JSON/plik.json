@@ -1,0 +1,39 @@
+[
+    {
+        "danie": "pieczarkowa",
+        "picie": "woda",
+        "składnik" : "pieczarki",
+        "ocena": "git",
+        "miejscepodania" : "w domu u babci"
+    },
+    {
+        "danie": "ogórkowa",
+        "picie": "soki z malin",
+        "składnik" : "ogóki",
+        "ocena": "może być",
+        "miejscepodania" : "restauracja"
+    },
+    {
+        "danie": "żur",
+        "picie" : "cherbata",
+        "składnik" : "zakwas",
+        "ocena": "najlepsza",
+        "miejscepodania" : "u siebie w domu"
+    },
+    {
+        "danie": "pomidorowa",
+        "picie": "sok z cytryny",
+        "składnik" : "pomidory",
+        "ocena": "umiarkownie",
+        "miejscepodania" : "w barze mlecznym"
+    },
+    {
+        "danie": "dyniowa",
+        "picie": "orenżada",
+        "składnik" : "dynie",
+        "ocena": "dobra",
+        "miejscepodania" : "u znajomego"
+    }
+    
+
+]
