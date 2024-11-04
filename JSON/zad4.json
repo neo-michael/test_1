@@ -1,0 +1,18 @@
+{
+    "dishName" : "spaghetti bolognese",
+    "preperationTime": 1.5,
+    "mainIngredients": [
+        "pasta", 
+        "tomato souce",
+        "meat",
+        "parmesan cheese"
+    ],
+    "portions": 4,
+    "vegan": false,
+    "origin": {
+        "place": "italy",
+        "time": "XVIII century"
+    },
+    "difficultyLevel": "easy",
+    "mealType" : "dinner"
+}
