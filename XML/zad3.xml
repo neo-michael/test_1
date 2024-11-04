@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<foods>
+    <food>
+        <name length="9" lang="en">Spaghetti</name>    
+        <origin population="4785338" geo_position="37°30'N 14°00'E">Sicily</origin>
+        <kind ingredients="eggs" etymology="παστά">Pasta</kind>
+        <spice_level levels="0;1;2;3;4" unit="SHU">0</spice_level>
+    </food>
+    <food>
+        <name length="14" lang="en">Chicken Curry</name>    
+        <origin population="1.9 billion" geo_position="8°4'N 37°6'N">Indian subcontinent, Southeast Asia</origin>
+        <kind ingredients="oil" etymology="caril">Curry</kind>
+        <spice_level levels="0;1;2;3;4" unit="SHU">2</spice_level>
+    </food>
+    <food>
+        <name length="8" lang="en">Pho Soup</name>    
+        <origin population="100300000" geo_position="21°2'N 105°51'E">Vietnam</origin>
+        <kind ingredients="Noodles" etymology="(မုန့်ဟင်းခါ">Noodle Soup</kind>
+        <spice_level levels="0;1;2;3;4" unit="SHU">1</spice_level>
+    </food>
+    <food>
+        <name length="16" lang="en">Toast with beans</name>    
+        <origin population="68265209" geo_position="51°30'N 0°7'W">United Kingdom</origin>
+        <kind ingredients="bread" etymology="ταγηνίας">Breakfast</kind>
+        <spice_level levels="0;1;2;3;4" unit="SHU">0</spice_level>
+    </food>
+    <food>
+        <name length="8" lang="en">Fish pie</name>    
+        <origin population="68265209" geo_position="51°30'N 0°7'W">United Kingdom</origin>
+        <kind ingredients="bread" etymology="ταγηνίας">Dairy</kind>
+        <spice_level levels="0;1;2;3;4" unit="SHU">1</spice_level>
+    </food>
+    <food>
+        <name length="7" lang="en">Wontons</name>    
+        <origin population="1409670000" geo_position="39°55'N 116°23'E">China</origin>
+        <kind ingredients="eggs" etymology="παστά">Pasta</kind>
+        <spice_level levels="0;1;2;3;4" unit="SHU">2</spice_level>
+    </food>
+</foods>
