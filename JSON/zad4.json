@@ -1,13 +1,13 @@
 {
     "dishName" : "spaghetti bolognese",
-    "preperationTime": 5400000,
+    "preperationTime": 1.5,
     "mainIngredients": [
         "pasta", 
         "tomato souce",
         "meat",
         "parmesan cheese"
     ],
-    "portions": 3.5,
+    "portions": 4,
     "key": true,
     "origin": {
         "place": "italy",
