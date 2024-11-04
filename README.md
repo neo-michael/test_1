@@ -1,3 +1,8 @@
+### TEAM 
+Mateusz Nowakowski, mati5gamed , 5,6
+Michał Marzec, neo-michael ,2,3
+Jakub Pniewski snowyq 1,4
+
 ### wprowadzenie
 
     Jedzenie przetworzone cieszy się złą opinią, ale nie do końca zasłużenie. Zdaniem ewolucjonistów to dzięki niemu staliśmy się ludźmi. Nasi odlegli przodkowie żywili się surowymi roślinami i mięsem – tak jak np. współczesne szympansy. Takie pokarmy są trudne do strawienia, wymagają wielogodzinnego żucia, a mimo to dostarczają niezbyt dużo energii i składników odżywczych. Jednak na sawannach często dochodziło do pożarów. W ten sposób mieszkające tam wczesne hominidy odkryły, że przypalone jedzenie jest bardziej miękkie (a więc nie trzeba go długo żuć), smaczniejsze i bardziej sycące. Dotyczy to zarówno pokarmów bogatych w skrobię, takich jak bulwy, jak i wyjątkowo cennego dla organizmu mięsa ad
